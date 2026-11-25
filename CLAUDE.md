@@ -125,3 +125,8 @@ using the `reference_product`/`method_name`/`impact_category` recorded there.
 The openLCA path remains independent and calculates through IPC. This is a
 manual step run via the Makefile, not yet wired into GitHub Actions CI — see
 roadmap Phase 1 in `PLAN.md`.
+
+## Pushing
+
+Never push on your own. Commit when these instructions say to, but push only
+when the person asks you to.
